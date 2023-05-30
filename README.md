@@ -1,10 +1,13 @@
 - 👋 Hi! My name is Amber and I'm looking to break into tech!
-- 
-- 🌱 I’ve just completed the basics of my first project ever, my weather app, and I'm excited to add a whole lot of new features.
-
-- 💞️ I’m seeking an opportuntiy as a junior developer. My skills currently lie with HTML / CSS / JavaScript / APIs / React / Python / SQL.
--
 - 📫 I'd love to connect on LinkedIn: https://www.linkedin.com/in/amber-lowman-062407189/
+
+
+- 🌱 I'd say I'm pretty deep into the tech world now. I've really developed my skillset, being 100% self taught has allowed me to really explore the areas I'm interested in. I've got most of what I know displayed on here, with lots of projects coming up.
+
+- I mean it when I say I have found my passion in tech, specifically Machine Learning and Data Science. I am so excited to find a role I can commit to and grow in.
+
+- My skills: HTML | CSS | Flexbox | Bootstrap | JavaScript (JS) | ES6 / ECMAScript | React | SQL | Visual Studio Code (VSCode) | API | Node.js | VMWare | GitHub | GitHub Hosting | Microsoft Active Directory (AD) | Python | Miniconda | Conda | Jupyter | Jypter notebook | Anaconda | MiniConda | Conda | Pandas | Matplotlib | NumPy | SciKit-Learn / Sklearn | Seaborn |TensorFlow | PyTorch | DMLCXGBoost | CatBoost | AI | Machine Learning | Data Science
+
 
 <!---
 AmberKL/AmberKL is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
